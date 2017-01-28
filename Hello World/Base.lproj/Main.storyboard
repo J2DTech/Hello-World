@@ -30,7 +30,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="46"/>
                                 <state key="normal" title="Welcome">
-                                    <color key="titleColor" red="0.46289933372221925" green="0.87591078367875652" blue="0.85575355363232963" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleColor" red="0.94638763076496202" green="0.94429253130459656" blue="0.96843695344466996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="welcomeprssd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FYq-DE-2b5"/>
