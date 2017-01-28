@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         
         bground.isHidden = false
         tileweb.isHidden = false
-        btnwelcome.isHidden = true
+        btnwelcome.isHidden = false
         
     }
 
